@@ -3,5 +3,5 @@ repositories {
      maven { url "https://jitpack.io" }
 }
 dependencies {
-      implementation 'com.github.Tunshutegong:test-android:v1.2'
+      implementation 'com.github.Tunshutegong:test-android:v1.4'
 }
